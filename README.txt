@@ -15,6 +15,6 @@ To view:
 School details used:
 Name: S.B.P SCHOOL KHARASARA
 Address: Village Kharasara
-Principal: Pappu Yaday
+Principal: Pappu Yadav
 Phone: 9060943422
 Languages: Hindi + English
